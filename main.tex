@@ -407,6 +407,15 @@ yielding the matrix equation
 \end{frame}
 %
 \begin{frame}
+\frametitle{Plot}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.75\columnwidth]{codes/cbse/figs/inter.pdf}
+	\caption{The lines intersect at $\myvec{\frac{1}{2}\\-1}$}
+    \end{figure}
+\end{frame}
+
+\begin{frame}
 \frametitle{Question }
 Find the ratio in which the point $C\brak{\frac{8}{5},y}$ divides the line segment joining the points $A\brak{1,2}$ and $B\brak{2,3}$. Also, find the value of $y$. 
 \end{frame}
@@ -430,25 +439,34 @@ Find the ratio in which the point $C\brak{\frac{8}{5},y}$ divides the line segme
     \myvec{
         1 & 1 & 1\\
         0 & \brak{2-1} & \brak{\frac{8}{5}-1}\\
-        0 & \brak{3-2} & \brak{y-3}
+        0 & \brak{3-2} & \brak{y-2}
     }\xleftrightarrow{}
     \myvec{
         1 & 1 & 1\\
         0 & 1 & \frac{3}{5}\\
-        0 & 1 & y-3
+        0 & 1 & y-2
     }
     \\
     \xleftrightarrow{R_3\rightarrow R_3-R_2}
     \myvec{
         1 & 1 & 1\\
         0 & 1 & \frac{3}{5}\\
-        0 & 0 & y-\frac{18}{5}
+        0 & 0 & y-\frac{13}{5}
     }
-    \implies y = \frac{18}{5}
+    \implies y = \frac{13}{5}
 \end{align}
 in order to get a 0 row.
 \end{frame}
 %
+%
+\begin{frame}
+\frametitle{Plot}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.75\columnwidth]{codes/cbse/figs/section.pdf}
+	\caption{Section formula and rank.}
+    \end{figure}
+\end{frame}
 \begin{frame}
 \frametitle{Question }
 The sum of the digits of a $2$-digit number is 14. The number obtained by interchanging     its digits exceeds the given number by 18. Find the number.
@@ -474,7 +492,7 @@ as
         x_2
     } &= \myvec{
         14\\
-        -2
+        2
     }   \\
     \end{align}
 \end{frame}
@@ -492,8 +510,8 @@ If
 $\vec{A}$ is then defined to be an orthogonal matrix.
     \begin{align}
             \myvec{
-        1 & 1\\
-        -1 & 1
+        1 & -1\\
+        1 & 1
     }
     \myvec{
         1 & 1\\
@@ -504,12 +522,12 @@ $\vec{A}$ is then defined to be an orthogonal matrix.
         x_2
     } &= 
     \myvec{
-        1 & 1\\
-        -1 & 1
+        1 & -1\\
+        1 & 1
     }
     \myvec{
         14\\
-        -2
+        2
     } \\
 \implies    2\vec{I}\vec{x} &= \myvec{
         12\\
@@ -522,6 +540,15 @@ $\vec{A}$ is then defined to be an orthogonal matrix.
 \end{align}
 \end{frame}
 %
+%
+\begin{frame}
+\frametitle{Plot}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.75\columnwidth]{codes/cbse/figs/orth.pdf}
+	\caption{The number is 68.}
+    \end{figure}
+\end{frame}
 %
 \begin{frame}{Topics covered so far}
     \begin{enumerate}

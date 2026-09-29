@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.5.4)  29 SEP 2026 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.5.4)  29 SEP 2026 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1352,23 +1352,54 @@ Package pdftex.def Info: codes/cbse/figs/median.pdf  used on input line 273.
 
 ] [18
 
-] [19
+]
+<codes/cbse/figs/inter.pdf, id=257, 462.52798pt x 346.89601pt>
+File: codes/cbse/figs/inter.pdf Graphic file (type pdf)
+<use codes/cbse/figs/inter.pdf>
+Package pdftex.def Info: codes/cbse/figs/inter.pdf  used on input line 416.
+(pdftex.def)             Requested size: 256.72147pt x 192.55074pt.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
 
-] [20
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 416.
+
+
+Overfull \vbox (2.07535pt too high) detected at line 416
+ []
+
+[19
+
+ <./codes/cbse/figs/inter.pdf>] [20
 
 ] [21
 
-] [22
+]
+<codes/cbse/figs/section.pdf, id=297, 462.52798pt x 346.89601pt>
+File: codes/cbse/figs/section.pdf Graphic file (type pdf)
+<use codes/cbse/figs/section.pdf>
+Package pdftex.def Info: codes/cbse/figs/section.pdf  used on input line 469.
+(pdftex.def)             Requested size: 256.72147pt x 192.55074pt.
+[22
 
-] [23
+ <./codes/cbse/figs/section.pdf>] [23
 
 ] [24
 
 ] [25
 
-] [26
+]
+<codes/cbse/figs/orth.pdf, id=346, 462.52798pt x 346.89601pt>
+File: codes/cbse/figs/orth.pdf Graphic file (type pdf)
+<use codes/cbse/figs/orth.pdf>
+Package pdftex.def Info: codes/cbse/figs/orth.pdf  used on input line 551.
+(pdftex.def)             Requested size: 256.72147pt x 192.55074pt.
+[26
 
-] [27
+ <./codes/cbse/figs/orth.pdf>] [27
 
 ] [28
 
@@ -1400,25 +1431,25 @@ Package pdftex.def Info: codes/cbse/figs/median.pdf  used on input line 273.
 
 ] [42
 
-]
-<figs/skew.png, id=418, 462.528pt x 346.896pt>
-File: figs/skew.png Graphic file (type png)
-<use figs/skew.png>
-Package pdftex.def Info: figs/skew.png  used on input line 902.
-(pdftex.def)             Requested size: 256.72147pt x 192.55072pt.
+] [43
 
-Overfull \vbox (57.60672pt too high) detected at line 902
- []
-
-[43
-
- <./figs/skew.png>] [44
+] [44
 
 ] [45
 
-] [46
+]
+<figs/skew.png, id=511, 462.528pt x 346.896pt>
+File: figs/skew.png Graphic file (type png)
+<use figs/skew.png>
+Package pdftex.def Info: figs/skew.png  used on input line 929.
+(pdftex.def)             Requested size: 256.72147pt x 192.55072pt.
 
-] [47
+Overfull \vbox (57.60672pt too high) detected at line 929
+ []
+
+[46
+
+ <./figs/skew.png>] [47
 
 ] [48
 
@@ -1442,6 +1473,12 @@ Overfull \vbox (57.60672pt too high) detected at line 902
 
 ] [58
 
+] [59
+
+] [60
+
+] [61
+
 ]
 \tf@nav=\write6
 \openout6 = `main.nav'.
@@ -1461,11 +1498,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 62EBDF18C05B5B914AF8BCAA6620709F;386.
  ) 
 Here is how much of TeX's memory you used:
- 26934 strings out of 467349
- 521887 string characters out of 5401406
+ 27006 strings out of 467349
+ 523275 string characters out of 5401406
  903333 words of memory out of 5000000
- 55313 multiletter control sequences out of 15000+600000
- 640947 words of font info for 81 fonts, out of 8000000 for 9000
+ 55371 multiletter control sequences out of 15000+600000
+ 650238 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,24n,131p,398b,662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/pu
@@ -1489,10 +1526,10 @@ public/amsfonts/cm/cmsy6.pfb></data/data/com.termux/files/usr/share/texlive/202
 6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></data/data/com.termux/fi
 les/usr/share/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam1
 0.pfb>
-Output written on main.pdf (58 pages, 933362 bytes).
+Output written on main.pdf (61 pages, 955155 bytes).
 PDF statistics:
- 682 PDF objects out of 1000 (max. 8388607)
- 483 compressed objects within 5 object streams
- 171 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 777 PDF objects out of 1000 (max. 8388607)
+ 520 compressed objects within 6 object streams
+ 177 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 
