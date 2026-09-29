@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1790659182.9944 "main.tex" "main.pdf" "main" 1790659189.02427 0
+["pdflatex"] 1790674161.57392 "main.tex" "main.pdf" "main" 1790674166.96226 0
   "/data/data/com.termux/files/usr/share/texlive/2026.0/texmf-dist/web2c/texmf.cnf" 1789653563 43838 788b409ca7f6d70214933fbc221adf76 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -235,12 +235,15 @@
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1762376337 5006 d7e899bb5d9717c7f214e9bc0284de7b ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1777904363 5573092 dde630300984a90ef415ac975d126ae6 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1777904360 3648643 fdf108452feb6e7eb41d3118e18221a0 ""
+  "codes/cbse/figs/bisect.pdf" 1790670460.03741 15211 a03160d2cbf079c83eff6f251be2836a ""
+  "codes/cbse/figs/diam.pdf" 1790668783.88941 12304 00d784adc916598e13e7bd8497e72a12 ""
+  "codes/cbse/figs/median.pdf" 1790674141.54234 12054 cb8b815927d296eb93eaaef37342189d ""
   "figs/skew.png" 1788169792.33283 1040794 2b258711d6e2a223297c967a096ae3f5 ""
-  "main.aux" 1790659188.77703 15248 19d271b6cccba322b26ddc64ddae0956 "pdflatex"
-  "main.nav" 1790659188.78503 6008 2fe4fafaa7064b6a1588328daeed75bd "pdflatex"
-  "main.out" 1790659188.78103 386 62ebdf18c05b5b914af8bcaa6620709f "pdflatex"
-  "main.tex" 1790659180.57303 41981 a68401a3a195efa7d48538d3b7da419b ""
-  "main.toc" 1790659188.78503 172 1cc9b4627a8b47a9607c7d752e9fc21c "pdflatex"
+  "main.aux" 1790674166.78234 15635 9f186211f2ea6a442398c1aa054b8eca "pdflatex"
+  "main.nav" 1790674166.79034 6287 c8918bc37589c265c9df01bfe29f26a2 "pdflatex"
+  "main.out" 1790674166.78634 386 62ebdf18c05b5b914af8bcaa6620709f "pdflatex"
+  "main.tex" 1790674114.57034 42617 08bd1608d4c45d7eac4ba82375537cd5 ""
+  "main.toc" 1790674166.79034 172 308241b22f24e0c18e423d02b344eeea "pdflatex"
   (generated)
   "main.aux"
   "main.log"
